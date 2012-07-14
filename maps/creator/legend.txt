@@ -1,0 +1,4 @@
+0 = vide
+1 = Pwall
+2 = Bwall
+3 = player

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<players nb="2">
+  <player x="0" y="0" />
+  <player x="11" y="11" />
+</players>
+<map x="12" y="12" name="Duel" />
+<bwalls>
+    <bwall x="0" y="5" />
+    <bwall x="0" y="3" />
+    <bwall x="0" y="8" />
+    <bwall x="1" y="4" />
+    <bwall x="2" y="5" />
+    <bwall x="2" y="7" />
+    <bwall x="2" y="10" />
+    <bwall x="3" y="4" />
+    <bwall x="3" y="9" />
+    <bwall x="3" y="11" />
+    <bwall x="5" y="8" />
+    <bwall x="6" y="2" />
+    <bwall x="6" y="9" />
+    <bwall x="9" y="5" />
+    <bwall x="9" y="6" />
+    <bwall x="9" y="7" />
+    <bwall x="10" y="7" />
+</bwalls>
+<pwalls>
+  <pwall x="0" y="2" />
+  <pwall x="2" y="4" />
+  <pwall x="2" y="6" />
+  <pwall x="2" y="8" />
+  <pwall x="4" y="7" />
+  <pwall x="4" y="9" />
+  <pwall x="4" y="3" />
+  <pwall x="4" y="10" />
+  <pwall x="7" y="2" />
+  <pwall x="9" y="9" />
+  <pwall x="9" y="10" />
+  <pwall x="10" y="2" />
+  <pwall x="10" y="5" />
+  <pwall x="11" y="5" />
+</pwalls>

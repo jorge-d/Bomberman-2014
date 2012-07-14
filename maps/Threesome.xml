@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<map x="12" y="7" name="Threesome"/>
+<players nb="3">
+ <player x="11" y="0"/>
+ <player x="0" y="3"/>
+ <player x="11" y="6"/>
+</players>
+<bwalls>
+ <bwall x="1" y="0"/>
+ <bwall x="2" y="0"/>
+ <bwall x="7" y="0"/>
+ <bwall x="8" y="0"/>
+ <bwall x="0" y="1"/>
+ <bwall x="1" y="1"/>
+ <bwall x="2" y="1"/>
+ <bwall x="7" y="1"/>
+ <bwall x="8" y="1"/>
+ <bwall x="9" y="3"/>
+ <bwall x="2" y="4"/>
+ <bwall x="8" y="4"/>
+ <bwall x="9" y="4"/>
+ <bwall x="0" y="5"/>
+ <bwall x="1" y="5"/>
+ <bwall x="2" y="5"/>
+ <bwall x="7" y="5"/>
+ <bwall x="8" y="5"/>
+ <bwall x="9" y="5"/>
+ <bwall x="7" y="6"/>
+</bwalls>
+<pwalls>
+ <pwall x="0" y="0"/>
+ <pwall x="4" y="2"/>
+ <pwall x="6" y="3"/>
+ <pwall x="7" y="3"/>
+ <pwall x="8" y="3"/>
+ <pwall x="10" y="3"/>
+ <pwall x="4" y="4"/>
+</pwalls>
